@@ -19,7 +19,7 @@ void main()
                 else
                 {
                     printf("Invalid entry");
-                    exit(0);
+                    
                 }
                 break;
                 
@@ -33,7 +33,7 @@ void main()
                 else
                 {
                     printf("Invalid entry");
-                    exit(0);
+                    
                 }
                 break;
                     
@@ -47,7 +47,7 @@ void main()
                 else
                 {
                     printf("Invalid entry");
-                    exit(0);
+                    
                 }
                 break;
         }
