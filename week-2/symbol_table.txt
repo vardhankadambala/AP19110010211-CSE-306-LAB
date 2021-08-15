@@ -1,6 +1,0 @@
-Symbol Table: 
-vardhan1
-main
-a
-A
-b
