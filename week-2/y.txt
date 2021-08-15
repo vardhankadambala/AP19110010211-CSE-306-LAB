@@ -1,0 +1,57 @@
+
+ vardhan1 : identifier
+ main : identifier
+(
+)
+{
+ scanf : identifier
+(
+"
+%
+ d : identifier
+"
+,
+ c : identifier
+)
+; 
+ float : keyword 
+ q : identifier 
+100: number
+. 
+75: number
+; 
+ int : keyword 
+ ab : identifier 
+100: number
+;
+ a : identifier 
+10: number
+;
+ A : identifier
+ relational operator < 
+ b : identifier
+ b : identifier 
+1: number
+; 
+ if : keyword 
+(
+ b : identifier
+ relational operator <=
+ a : identifier
+)
+{
+ b : identifier
++ 
+1: number
+} 
+ if : keyword 
+(
+ a : identifier
+ relational operator ==
+ b : identifier
+)
+{
+ a : identifier
+- 
+1: number
+}comment did not close
