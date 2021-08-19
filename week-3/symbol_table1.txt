@@ -1,0 +1,10 @@
+vardhan1
+main
+scanf
+d
+c
+q
+ab
+a
+A
+b
