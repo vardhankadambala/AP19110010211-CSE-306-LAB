@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main{
+int a, b,bc;
+a=b=bc
+\\hello
+printf("my name is vardhan");
+}

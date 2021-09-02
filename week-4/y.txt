@@ -1,0 +1,38 @@
+
+ include is identifier
+ < is Relational operator Lessthan
+ stdio is identifier
+ h is identifier
+ > is Relational operator Greaterthan 
+ int is keyword
+ main is identifier 
+ int is keyword
+ a is identifier
+ b is identifier
+ bc is identifier
+ a is identifier
+ b is identifier
+ bc is identifier
+ hello is identifier
+ printf is identifier
+ my is identifier
+ name is identifier
+ is is identifier
+ vardhan is identifier
+
+ the contents of symbol table are :
+
+ include
+ stdio
+ h
+ main
+ a
+ b
+ bc
+ hello
+ printf
+ my
+ 
+ is
+ vardhan
+
