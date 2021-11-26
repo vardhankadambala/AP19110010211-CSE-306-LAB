@@ -1,0 +1,8 @@
+main(){
+	num a=1,b=0;
+1a
+	[if 'a>b':
+	 	get("Prudhvi");	]
+	[not
+		get("Raj")//code ]	
+}

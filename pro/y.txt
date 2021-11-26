@@ -1,0 +1,30 @@
+
+ main is identifier 
+ num is keyword 
+ a is identifier
+ 1 is digit 
+ b is identifier
+ 0 is digit 
+ ; is SEMICOLON
+ 1 is digit 
+ a is identifier 
+ if is keyword 
+ a is identifier
+ > is Relational operator Greaterthan 
+ b is identifier 
+ get is keyword
+ Prudhvi is identifier 
+ ; is SEMICOLON 
+ not is keyword 
+ get is keyword
+ Raj is identifier
+
+ the contents of symbol table are :
+
+ main
+ a
+ b
+ Prudhvi
+ Raj
+ code
+

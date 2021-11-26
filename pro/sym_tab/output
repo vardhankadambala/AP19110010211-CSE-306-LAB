@@ -1,0 +1,48 @@
+
+ main : identifier
+(
+)
+{ 
+ num : keyword 
+ a : identifier 
+1: number
+,
+ b : identifier 
+0: number
+,
+ prudhvi : identifier
+;
+[ 
+ if : keyword 
+'
+ a : identifier
+ relational operator is LT (>)
+ b : identifier
+'
+: 
+ get : keyword 
+(
+"
+ Prudhvi : identifier
+"
+)
+;
+]
+[
+ not : identifier 
+ get : keyword 
+(
+"
+ Raj : identifier
+"
+)
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
